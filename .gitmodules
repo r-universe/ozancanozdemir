@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bursa"]
+	path = bursa
+	url = https://github.com/cran/bursa
 [submodule "izmir"]
 	path = izmir
 	url = https://github.com/ozancanozdemir/izmir
