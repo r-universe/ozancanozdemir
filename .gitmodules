@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "bursa"]
 	path = bursa
-	url = https://github.com/cran/bursa
+	url = https://github.com/ozancanozdemir/bursa
 [submodule "izmir"]
 	path = izmir
 	url = https://github.com/ozancanozdemir/izmir
