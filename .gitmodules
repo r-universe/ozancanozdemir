@@ -8,9 +8,6 @@
 [submodule "izmir"]
 	path = izmir
 	url = https://github.com/ozancanozdemir/izmir
-[submodule "konya"]
-	path = konya
-	url = https://github.com/cran/konya
 [submodule "turkeyelections"]
 	path = turkeyelections
 	url = https://github.com/ozancanozdemir/turkeyelections
