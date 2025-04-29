@@ -5,6 +5,9 @@
 [submodule "bursa"]
 	path = bursa
 	url = https://github.com/ozancanozdemir/bursa
+[submodule "ggsegmentedtotalbar"]
+	path = ggsegmentedtotalbar
+	url = https://github.com/ozancanozdemir/ggsegmentedtotalbar
 [submodule "izmir"]
 	path = izmir
 	url = https://github.com/ozancanozdemir/izmir
